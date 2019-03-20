@@ -8,10 +8,10 @@ This app was built for the Udacity React Nanodegree Program.The app allows user 
 
 ## How to Run:
 
-1.Run npm install to install the project dependencies.
-2.Run npm install --save react-router-dom .
-3.Run the app using npm start.
-4.App can be seen at: localhost:3000.
+.Run npm install to install the project dependencies.
+.Run npm install --save react-router-dom .
+.Run the app using npm start.
+.App can be seen at: localhost:3000.
 
 ## Backend Server
 
